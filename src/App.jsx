@@ -33,7 +33,7 @@ const App = () => {
       <div className="search-form">
         <input
           type="text"
-          placeholder="Type in your recipe..."
+          placeholder="Type in your recipe... (e.g.: pasta, chicken, steak, etc.)"
           className="search-bar"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
