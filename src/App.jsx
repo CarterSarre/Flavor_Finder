@@ -9,7 +9,6 @@ const App = () => {
   const APP_KEY = "21e6fdcb92c543c953387e28e701b7b6	";
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState("");
-  const [isDarkMode, setDarkMode] = useState(false);
 
   const fetchRecipes = async (recipe) => {
     try {
