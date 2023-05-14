@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import RecipeCard from "./components/RecipeCard";
 import logo from "./assets/pgstd1039.png";
 import "./App.css";
-import "./Dark-Mode.css";
 
 const App = () => {
   const APP_ID = "f5926533";
