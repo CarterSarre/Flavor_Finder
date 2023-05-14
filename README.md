@@ -1,4 +1,5 @@
-Recipe App
+Flavor Finder
+
 This is a Recipe app that allows users to search for recipes using the Edamam Recipe API. The app displays the recipe title, ingredients, calories, and image for the user to see.
 
 Features
